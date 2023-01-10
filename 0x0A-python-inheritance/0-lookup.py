@@ -1,4 +1,4 @@
-e  7 lines (5 sloc)  172 Bytes
+
 #!/usr/bin/python3
 """Defines an object attribute lookup function."""
 
